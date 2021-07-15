@@ -41,7 +41,7 @@ public class Day03forfor {
         for (int x = 0; x <= 10; x++) {
             if (x % 2 == 1)
                 continue;
-            System.out.print("x=" + x+" ");
+            System.out.print("x=" + x + " ");
         }
     }
 }
