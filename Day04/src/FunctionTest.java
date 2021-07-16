@@ -1,4 +1,4 @@
-public class Functiontest {
+public class FunctionTest {
     public static int getResult(int num) {
         return num * 3 + 5;
     }
