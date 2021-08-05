@@ -1,4 +1,4 @@
-public class Functiontest2 {
+public class FunctionTest2 {
     public static void main(String[] args) {
         draw(5, 6);
         printHr();
