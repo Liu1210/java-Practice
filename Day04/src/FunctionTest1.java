@@ -1,4 +1,4 @@
-public class Functiontest1 {
+public class FunctionTest1 {
     /**
      * 如何定义一个函数：
      * 1，既然函数是一个独立的供暖，那么先明确该供暖的运算结果，因为这是在明确函数的返回值列表
